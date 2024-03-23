@@ -32,7 +32,7 @@ Please organize the dataset as following:
 
 ```
 code_root/
-└── our_buv/
+└── buv/
       ├── rawframes/
       ├── train.json
       └── val.json
