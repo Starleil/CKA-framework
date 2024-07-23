@@ -1,13 +1,13 @@
 # CKA-framework
 This repository is an official implementation of the paper "Joint lesion detection and classification of breast 
-ultrasound video via a clinical knowledge-aware framework".
+ultrasound video via a clinical knowledge-aware framework". (The complete code will be added after the manuscript is published.)
 
 ## Dataset
 We collect and annotate an ultrasound video
 dataset (298 videos) for lesion detection and classification in ultrasound videos, including 170 benign cases and 128 
 malignant cases. This dataset is available for only non-commercial use in research or educational
 purpose. As long as you use the dataset for these purposes, you can edit or process images and annotations in the dataset.
-(Note that full dataset will be made publicly avalable upon the publication of the manuscript)
+(Note that full dataset will be made publicly available upon the publication of the manuscript)
 
 ## Code Usage
 
